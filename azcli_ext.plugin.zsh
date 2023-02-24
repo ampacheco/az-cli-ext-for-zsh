@@ -77,3 +77,7 @@ create-ml-ws() {
 delete-ml-ws() {
   az group delete -n ${AZ_NAME:=alejandropacheco-ml-ws}-rg -y --no-wait
 }
+
+agl () {
+	az group list -otable
+}
