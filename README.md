@@ -3,6 +3,6 @@
 
 ## Installation
 ````
-mkdir -p ~/.oh-my-zsh/custom/plugins/password_generator
-git clone git://github.com/Xiphe/Password-Generator-for-zsh.git ~/.oh-my-zsh/custom/plugins/password_generator
+mkdir -p ~/.oh-my-zsh/custom/plugins/azcli_ext
+git clone https://github.com/ampacheco/az-cli-ext-for-zsh.git ~/.oh-my-zsh/custom/plugins/azcli_ext
 ````
